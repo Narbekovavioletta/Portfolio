@@ -1,6 +1,6 @@
 # Анализ вакансий специалистов DA в LinkedIn
 
-[jupyter]() [dashboard](https://public.tableau.com/app/profile/narbekovavioletta/viz/dash_linkedin/dash_linkedin)
+[jupyter](https://github.com/Narbekovavioletta/Portfolio/blob/main/linkedin/linkedin_git.ipynb) [dashboard](https://public.tableau.com/app/profile/narbekovavioletta/viz/dash_linkedin/dash_linkedin)
 
 ## Описание проекта
 - **Задача:** Исследовать рынок открытых вакансий специалистов DA в Европе с помощью спарсенных с LinkedIn данных. Результаты исследования собрать в дашборд.
