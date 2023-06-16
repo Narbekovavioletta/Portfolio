@@ -1,6 +1,6 @@
 # Анализ активности студентов в чатах Яндекс Практикума
 
-[jupyter]()
+[jupyter](https://github.com/Narbekovavioletta/Portfolio/blob/main/chat_analisis/chat_analisis_git.ipynb)
 
 ## Описание проекта
 - **Заказчик исследования** — Яндекс Практикум.
